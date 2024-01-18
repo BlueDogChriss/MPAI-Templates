@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://F:/Databases/sqlite-jdbc-3.7.2.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/../Proiect/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/../Proiect/src" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../Proiect/src">
+      <sourceFolder url="file://$MODULE_DIR$/../Proiect/src" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="sqlite-jdbc-3.7.2.jar">
+        <CLASSES>
+          <root url="file://F:/Databases/sqlite-jdbc-3.7.2.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
